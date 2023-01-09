@@ -1,0 +1,18 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\pc\source\repos\ConsoleApplication1\shape.h(9,17): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(12,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(136,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(141,49): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(145,38): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(150,52): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(169,76): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(170,78): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(171,78): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(172,78): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pc\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(174,80): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours
+  2 of 173 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  ConsoleApplication1.vcxproj -> C:\Users\pc\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
